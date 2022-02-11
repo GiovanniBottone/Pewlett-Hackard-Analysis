@@ -1,3 +1,4 @@
+-- queries.sql
 -- Creating tables for PH-EmployeeDB
 CREATE TABLE departments (
      dept_no VARCHAR(20) NOT NULL,
