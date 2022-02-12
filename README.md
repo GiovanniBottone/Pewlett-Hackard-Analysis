@@ -26,6 +26,7 @@ Yes, there are only 1,549 eligible employees which accounts for 1.7% of the reti
 An additional table that provides insight for Pewlett Hackard: 
 
 Position Breakdown of retiring employees by percentage:
+
 ![Retiring Employee Position breakdown](https://user-images.githubusercontent.com/95371617/153695789-2bfb2533-d113-4a35-b2c3-24f8c68f5803.png)
 
 Additional Query that provides insight for Pewlett Hackard:
