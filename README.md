@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Project Overview
-The purpose of this project was to assist management by creating two tables focusing on retiring employees and who can replace them. Table one, https://github.com/GiovanniBottone/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv , determined the number of retiring employees per title, while table two, https://github.com/GiovanniBottone/Pewlett-Hackard-Analysis/blob/main/Data/Membership_Eligibility.csv , focused on identifying employees who are eligible to participate in a mentorship program. This information helped management prepare for the “silver tsunami” as many employees reach retirement age.
+The purpose of this project was to assist management by creating two tables focusing on retiring employees and who can replace them. Table one, which can be seen at  https://github.com/GiovanniBottone/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv , determined the number of retiring employees per title, while table two, which can be seen at https://github.com/GiovanniBottone/Pewlett-Hackard-Analysis/blob/main/Data/Membership_Eligibility.csv , focused on identifying employees who are eligible to participate in a mentorship program. This information helped management prepare for the “silver tsunami” as many employees reach retirement age.
 
 ## Results
 •	1/3rd of retiring employees are Senior Engineers, 64% of retiring employees are either Senior Engineers (33%) or Senior Staff (31%.)
