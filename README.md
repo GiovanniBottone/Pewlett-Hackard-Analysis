@@ -4,9 +4,13 @@
 The purpose of this project was to assist management by creating two tables focusing on retiring employees and who can replace them. Table one, which can be seen at  https://github.com/GiovanniBottone/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv , determined the number of retiring employees per title, while table two, which can be seen at https://github.com/GiovanniBottone/Pewlett-Hackard-Analysis/blob/main/Data/Membership_Eligibility.csv , focused on identifying employees who are eligible to participate in a mentorship program. This information helped management prepare for the “silver tsunami” as many employees reach retirement age.
 
 ## Results
+
 •	1/3rd of retiring employees are Senior Engineers, 64% of retiring employees are either Senior Engineers (33%) or Senior Staff (31%.)
+
 •	The two most important positions to prioritize in the mentorship program are Senior Engineers and Senior Staff. 
+
 •	Senior Engineers will be harder to replace than Senior Staff due to the fact that there are nearly three times as many Senior Staff employees (540 total, 35% of all eligible employees) eligible for the mentorship program as there are Senior Engineers (192 total, 12% of all eligible employees).
+
 •	Due to the overwhelming amount of retiring employees (90,398 total), it is very likely that every eligible employee (1,549 total) is accepted into the membership program; however, this barely solves the vacant job issue considering only 1.7% (1,549/90,398) of positions newly vacant positions can be filled by the existing membership eligible employees. 
 
 
