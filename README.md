@@ -24,7 +24,7 @@ The simplest way to identify how many roles need to be filled as the “silver t
 
 Yes, there are only 1,549 eligible employees which accounts for 1.7% of the retiring employees. Pewlett Hackard has more retiring employees than mentorship eligible employees in every position. There is an abundance of qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
 
-**An additional table that provides insight for Pewlett Hackard: **
+****An additional table that provides insight for Pewlett Hackard: ****
 
 Position Breakdown of retiring employees by percentage:
 
